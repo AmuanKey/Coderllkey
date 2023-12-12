@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amuan" alt="amuan" /></a> </p>
 
-- 🔭 I’m currently working on [LMS System with Django ](https://github.com/Coderllkey/LMS-project-with-Django)
+- 🔭 I’m currently working on [LMS System with Django ](https://github.com/Coderllkey/ReactShopProject)
 
 - 🌱 I’m currently learning **React.js, Tailwind, Django**
 
