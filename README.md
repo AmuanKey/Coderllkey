@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amuan" alt="amuan" /></a> </p>
 
-- 🔭 I’m currently working on [LMS System with Django ](https://github.com/Coderllkey/ReactShopProject)
+- 🔭 I’m currently working on [React Online Shopping Project ](https://github.com/Coderllkey/ReactShopProject)
 
-- 🌱 I’m currently learning **React.js, Tailwind, Django**
+- 🌱 I’m currently learning **React.js, Tailwind, Node**
 
 - 👯 I’m looking to collaborate on **Web Designs**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **neoncoder77@gmail.com**
 
-- ⚡ Fun fact **I am Friendly, Cooperative ,Funny and easy to get along and also I like to develop games in the future**
+- ⚡ Fun fact **I am Friendly, Cooperative ,Funny and easy to get along and also I like to develop useful WebApps in the future**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
